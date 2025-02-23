@@ -8,7 +8,7 @@ import Footer from '@/components/common/Footer/index.vue'
 
     <Navbar />
 
-    <main class="flex-1">
+    <main class="flex-1 mt-11">
       <slot />
     </main>
 
